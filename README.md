@@ -1,7 +1,7 @@
 # RELATIONAL DATABASE SERVICE CREATION IN AMAZON
 
-### REG NO:212222040096
-### NAME: MALARVIZHI G
+### REG NO:212222040068
+### NAME: kailash sm 
 
 ## AIM
   To Relational Database Service Creation in Amazon.
